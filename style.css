@@ -1,0 +1,47 @@
+html{
+    background-image: url(web.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.nav ul{
+    margin: 0%;
+}
+.nav li{
+    display: inline;
+    
+}
+.nav a{
+    padding: .5em;
+    display: inline-block;
+}
+.nav a:hover{
+    background-color: rgba(255, 255, 255, .2);
+    color: rgb(41, 40, 40);
+    
+    
+}
+.main-nav li{
+    padding: 0% 2%;
+}
+.main-nav{
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: lighter;
+    border-bottom: 1px solid rgba(255, 255, 255, .3);
+}
+.heading{
+    color: rgb(213, 213, 218);
+    text-align: center;
+    text-shadow: oldlace;
+    text-decoration-line: overline underline;
+    font-family: 'Stick No Bills', sans-serif;
+    font-weight: 800;
+    font-size: 50px;
+}
+.text-sm{
+    text-align: start;
+}
